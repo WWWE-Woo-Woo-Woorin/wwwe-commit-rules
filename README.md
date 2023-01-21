@@ -38,3 +38,6 @@
 | 🍻 |	:beers:	| 술 취해서 쓴 코드 |	Write code drunkenly. |
 | 🗃 |	:card_file_box: |	데이버베이스 관련 수정	| Perform database related changes. |
 | 🙈 |	:see_no_evil:	| .gitignore 추가/수정 |	Add or update a .gitignore file. |
+
+# 잘게 나누어서 커밋하는 습관을 기르자
+한 피쳐에 한 커밋
